@@ -1,4 +1,4 @@
-# 🎓 SkillSwap Hub – UI/UX Design Project (York University)
+# 🎓 SkillSwap Hub – UI/UX Design Project
 
 ### 🧠 Overview
 **SkillSwap Hub** is a university group project developed for the **EECS 3461 – User Interface Design** course at **York University**.  
